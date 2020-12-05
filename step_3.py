@@ -1,12 +1,12 @@
 ...
 
-housing = ['House', 'Apartment', 'Studio', 'Motel']
+housing = ['House', 'Apartment', 'Small studio', 'Motel']
 #             0          1           2         3
 #            -4         -3          -2        -1
 
 print('House: 40.000$')
 print('Apartment: 9.000$')
-print('Studio: 17.500$')
+print('Small studio: 17.500$')
 print('Motel: 3.500$')
 
 print('Жилье которое стоит дороже 34,000$:')
